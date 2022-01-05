@@ -22,7 +22,13 @@ You can click the Preview link to take a look at your changes.
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
   
- </div 
+</div> 
+  
+<div align="center">  
+  
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=01zulfi&show_icons=true&theme=nord&hide_border=true&custom_title=Stats&layout=compact&count_private=true)](https://www.github.com/01zulfi)
+  
+</div>
   
 <div align="center">
 
