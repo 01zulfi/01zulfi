@@ -30,8 +30,10 @@ You can click the Preview link to take a look at your changes.
   
 </div>
   
+<!---  
 <div align="center">
 
 [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=01zulfi&custom_title=Activity%20Graph%20&hide_border=true&theme=nord)](https://www.github.com/01zulfi)
 
 </div>
+--->
